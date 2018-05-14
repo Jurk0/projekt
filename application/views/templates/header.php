@@ -33,6 +33,9 @@
 				<a class="nav-link" href="#">Turnaje</a>
 			</li>
 			<li class="nav-item">
+				<a class="nav-link" href="#">Týmy</a>
+			</li>
+			<li class="nav-item">
 				<a class="nav-link" href="#">Hráči</a>
 			</li>
 
